@@ -41,6 +41,7 @@
   ],
   "dependencies": {
     "@fontsource-variable/shantell-sans": "^5.0.22",
+    "@sveltejs/adapter-vercel": "^5.4.1",
     "@tabler/icons-svelte": "^3.10.0"
   }
 }
